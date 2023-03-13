@@ -1,0 +1,6 @@
+apache-airflow==2.4.3
+apache-airflow-providers-google==8.11.0
+py7zr
+lxml
+pytest
+mock
